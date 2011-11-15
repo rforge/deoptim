@@ -1,4 +1,0 @@
-useDynLib(DEoptim)
-export(DEoptim, DEoptim.control)
-S3method("plot", "DEoptim")
-S3method("summary", "DEoptim")
